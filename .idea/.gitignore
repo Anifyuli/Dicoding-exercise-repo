@@ -1,3 +1,11 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/.name
+/codeStyles/codeStyleConfig.xml
+/compiler.xml
+/gradle.xml
+/jarRepositories.xml
+/misc.xml
+/codeStyles/Project.xml
+/uiDesigner.xml
