@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 import java.util.*
 
 fun main() {

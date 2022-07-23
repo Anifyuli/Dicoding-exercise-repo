@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     val greet = buildString {
         append("Good Morning ")

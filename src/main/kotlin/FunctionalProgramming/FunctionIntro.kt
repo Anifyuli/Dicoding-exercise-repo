@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     val actName = myName(first = "Budi", last = "Sasongko", mid = "Putra")
     val beloved = myFriend()

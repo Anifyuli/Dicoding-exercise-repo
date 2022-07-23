@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     functionReferences1()
     functionReferences2()

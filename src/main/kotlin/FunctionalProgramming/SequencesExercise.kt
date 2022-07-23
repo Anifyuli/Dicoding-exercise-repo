@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 // Sequences adalah jenis Collection lazy evaluation yang hanya akan mengevaluasi  item jika benar-benar diperlukan
 // Cara menggunakannya cukup dengan panggil fungsi asSequence pada Collection yang dipakai
 fun main() {

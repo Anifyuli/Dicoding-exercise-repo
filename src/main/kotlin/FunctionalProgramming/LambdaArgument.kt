@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     // Lambda argument it dirubah nilainya
     val greeting = "Good Morning"

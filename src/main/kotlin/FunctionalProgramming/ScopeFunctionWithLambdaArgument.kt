@@ -1,5 +1,7 @@
+package FunctionalProgramming
+
 fun main() {
-    // Better than letExample1() to reduce using safe call operator
+    // Better than FunctionalProgramming.letExample1() to reduce using safe call operator
     letExample1()
     // Bad expression of let
     letExample2()

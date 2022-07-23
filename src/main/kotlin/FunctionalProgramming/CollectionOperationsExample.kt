@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     // Dalam contoh ini, List digunakan sebagai contoh Collection yang dipakai sebagai objek dari Collection Operations
     val numberList = listOf(1, 2, 5, 4, 3, 6, 7)

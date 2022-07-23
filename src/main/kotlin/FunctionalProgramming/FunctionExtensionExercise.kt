@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     "Kotlin".printString()
     println(3.multipleFour())

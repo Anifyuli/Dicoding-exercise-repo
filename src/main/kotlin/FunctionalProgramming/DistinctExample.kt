@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     // Distinct tidak digunakan dalam Map Collection
     fun distinctExample1() {

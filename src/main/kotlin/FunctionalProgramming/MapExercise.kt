@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     val capital = mapOf(
         "Jakarta" to "Indonesia",

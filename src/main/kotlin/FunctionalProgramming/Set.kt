@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     // Bentuk objek Set
     val integerSet = setOf(1, 2, 3, 4)

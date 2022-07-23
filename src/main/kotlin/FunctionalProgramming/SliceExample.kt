@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     sliceExample1()
     sliceExample2()

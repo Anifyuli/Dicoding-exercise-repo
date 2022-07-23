@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     val result : Int? = null
     val result1 : Int? = null

@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     println(10.diff)
 }

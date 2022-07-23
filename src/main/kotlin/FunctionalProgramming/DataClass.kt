@@ -1,6 +1,8 @@
+package FunctionalProgramming
+
 class User(val name : String, val age : Int){
     override fun toString(): String {
-        return "User(name=$name, age=$age)"
+        return "FunctionalProgramming.User(name=$name, age=$age)"
     }
 }
 

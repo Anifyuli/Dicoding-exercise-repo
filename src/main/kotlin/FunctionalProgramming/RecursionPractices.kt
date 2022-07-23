@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main(){
     factorialWithFraming(9)
     factorialWithRecursiveMechanism(9)

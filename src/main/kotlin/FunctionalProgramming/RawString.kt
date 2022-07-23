@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     val poem = """
         Aku hanyalah insan

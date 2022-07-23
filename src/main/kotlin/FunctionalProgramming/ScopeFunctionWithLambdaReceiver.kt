@@ -1,3 +1,5 @@
+package FunctionalProgramming
+
 fun main() {
     runExample()
     withExample1()
@@ -11,7 +13,7 @@ fun runExample() {
     val value = greeting.run {
         val from = this
         val to = this.replace("Good Morning", "Hello, Lambda")
-        "replace greeting $from to $to"
+        "replace FunctionalProgramming.greeting $from to $to"
     }
     println("result : $value")
 }
